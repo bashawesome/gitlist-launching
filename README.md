@@ -16,3 +16,8 @@ Gitlist is founded and developed by Lucas Gatsas on 1. of January 2015. In Help 
 
 More to Follow soon. 
 Check out <a href="http://www.gitlist.io"> www.gitlist.io </a> <br> the Gitlist Landing Page <a href="http://www.gitlist.io/g/launching">www.gitlist.io/g/launching</a>
+
+
+
+
+![alt tag](https://spaceg.github.io/img/intro-theme-1.png)
