@@ -9,4 +9,4 @@ Do you can Update your Profile and Set your Profile Image and create a list with
 You can follow each other Developers from all over the World or Globe. 
 
 More to Follow soon. 
-Check out <a href="http://www.gitlist.io"> www.gitlist.io </a> 
+Check out <a href="http://www.gitlist.io"> www.gitlist.io </a> <br> the Gitlist Landing Page <a href="http://www.gitlist.io/g/launching">www.gitlist.io/g/launching</a>
