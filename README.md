@@ -20,4 +20,4 @@ Check out <a href="http://www.gitlist.io"> www.gitlist.io </a> <br> the Gitlist 
 
 
 
-![alt tag](https://spaceg.github.io/img/intro-theme-1.png)
+![alt tag](https://spaceg.github.io/img/gitlist-wall-1-1.png)
