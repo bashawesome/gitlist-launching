@@ -37,50 +37,6 @@ Check out <a href="http://www.gitlist.io"> www.gitlist.io </a> <br> the Gitlist 
 
 
 
-<strong> Programming Languages  </strong> 
-
-HTML5 Link to : HTML5 
-- Css3/ Overwriting Link to : CSS 3 
-- Less/ Css3 Link to : Less/ Css3 
-- Javascript Link to : Javascript 
-- Jquery Link to : Jquery 
-- JSON Link to : JSON 
-- C/ C++ Header Link to : Robot Framework 
-- make Link to : make 
-- XML Link to : XML 
-- YAML Link to : YAML 
-- PERL Link to : PERL 
-- CoffeeScript Link to : Coffescript 
-- D Link to : D 
-- Bourne Again Shell Link to : Bourne Again Shell 
-- Bourne Shell Link to : Bourne Shell 
-- Ruby Link to : Ruby on Rails 
-- DOS Batch Link to : DOS BATCH 
-- Python Link to : PYTHON 
-- Handlebars Link to : Handlebars 
-- C Link to : C - Language 
-- RobotFramework Link to : Robot Framework 
-- Lisp Link to : Lisp 
-- Sass Link to : Sass / Css 
-
-<strong> Virtual Servers </strong> 
-
-- Digital Ocean (Servers in San Fransisco, New York, Singabore) Link to : Digital Ocean 
-- Nginx (Webserver-Software, Reverse Proxy und E-Mail-Proxy) Link to : Nginx 
-- Node.js (Node.js® is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. ) Link to : Node.js Framework 
-- MongoDB ( is a cross-platform document-oriented database. Classified as a NoSQL database, MongoDB eschews the traditional table-based relational database structure in favor of JSON-like documents with dynamic schemas (MongoDB calls the format BSON), making the integration of data in certain types of applications easier and faster. ) Link to : Mongo DB 
-- Linux Ubnutu (Operating System) Link to : Linux 
-- Linux Ubnutu 14.04 LTS Virtual Machine (Servers) (Scale out with Ubuntu Server ) Link to : Linux Ubnutu 14.04 LTS Virtual Machine 
-- Unix Link to : Unix 
-- Mac Os Link to : Mac Os 
-- Windwos Link to : Windwos 
-
-
-
-Security (Open Source) 
-
-
-- OpenSSL(Certificate - Security) Link to : Robot Framework 
 
 
 
