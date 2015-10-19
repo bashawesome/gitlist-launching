@@ -17,7 +17,7 @@ Gitlist is founded and developed by Lucas Gatsas on 1. of January 2015. In Help 
 More to Follow soon. 
 Check out <a href="http://www.gitlist.io"> www.gitlist.io </a> <br> the Gitlist Landing Page <a href="http://www.gitlist.io/g/launching">www.gitlist.io/g/launching</a>
 
-Programming Languages 
+<strong> Programming Languages  </strong> 
 
 HTML5 Link to : HTML5 
 - Css3/ Overwriting Link to : CSS 3 
@@ -42,9 +42,8 @@ HTML5 Link to : HTML5
 - RobotFramework Link to : Robot Framework 
 - Lisp Link to : Lisp 
 - Sass Link to : Sass / Css 
-- 
 
-Virtual Servers 
+<strong> Virtual Servers </strong> 
 
 - Digital Ocean (Servers in San Fransisco, New York, Singabore) Link to : Digital Ocean 
 - Nginx (Webserver-Software, Reverse Proxy und E-Mail-Proxy) Link to : Nginx 
