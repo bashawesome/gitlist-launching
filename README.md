@@ -121,8 +121,7 @@ I have started with the Code after Midnight on 1. of January 03.23.02 O.Clock in
 <br> 
 <br> 
 <br>
-<img src="{{ site.baseurl }}/img/figure-4.png" class="center-block"alt="" />
-                      
+
 </div>                                                            
                     
 </div>
