@@ -23,7 +23,7 @@ Check out <a href="http://www.gitlist.io"> www.gitlist.io </a> <br> the Gitlist 
                 
 
 <p class="description-2-small"> This is my New Start Up Project and Beta Version Gitlist.io 0.0.1 
-<br> Go Read Out how was built. </p> 
+ </p> 
 <br>      
         
 
