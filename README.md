@@ -48,7 +48,7 @@ Check out <a href="http://www.gitlist.io"> www.gitlist.io </a> <br> the Gitlist 
  <img src="http://space.lucasgatsas.ch/images/Showcase-Devices-Presentation-lucas-gatsas-gitlist-app.png" class="center-block container-small"alt="" /> <br
 <br>
 <br>
-I have started with the Code after Midnight on 1. of January 03.23.02 O.Clock in the Morning with the SOurce of <a href="http://www.gitlist.io">gitlist.io</a> . I Choose some Open SOurce and started with the Front End. 
+I have started with the Code after Midnight on 1. of January 03.23.02 O.Clock in the Morning with the Source of <a href="http://www.gitlist.io">gitlist.io</a> . I Choose some Open SOurce and started with the Front End. 
 
 <br>
 <br> 
