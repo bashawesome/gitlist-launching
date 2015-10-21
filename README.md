@@ -19,8 +19,6 @@ Check out <a href="http://www.gitlist.io"> www.gitlist.io </a> <br> the Gitlist 
 <div class="middle-place-con-01">
 <br>
 <br> 
-                <img src="{{ site.baseurl }}/img/macbookE4DC87EEC6098E66CF0548E81C93EE48.png" class="center-block container-small"alt="" /> 
-
                 <h1 class="description-1"> IT'S NICE TO MEET YOU</h1>
                 
 
