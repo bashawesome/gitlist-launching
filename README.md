@@ -32,8 +32,7 @@ Check out <a href="http://www.gitlist.io"> www.gitlist.io </a> <br> the Gitlist 
 
 <p>
       <button class="btn btn-primary collapsed center-block" type="button" id="gitlist-promo-readmore" data-toggle="collapse" data-target="#collapseBeispiel" aria-expanded="false" aria-controls="collapseBeispiel">
-        + Click here & Go See 
-<br> How Was Gitlist Built?
+   
       </button>
       
 <br>
