@@ -48,7 +48,7 @@ Check out <a href="http://www.gitlist.io"> www.gitlist.io </a> <br> the Gitlist 
  <img src="http://space.lucasgatsas.ch/images/Showcase-Devices-Presentation-lucas-gatsas-gitlist-app.png" class="center-block container-small"alt="" /> <br
 <br>
 <br>
-I have started with the Code after Midnight on 1. of January 03.23.02 O.Clock in the Morning with the Source of <a href="http://www.gitlist.io">gitlist.io</a> . I Choose some Open SOurce and started with the Front End. 
+I have started with the Code after Midnight on 1. of January 03.23.02 O.Clock in the Morning with the Source of <a href="http://www.gitlist.io">gitlist.io</a> . I Choose some Open Source and started with the Front End. 
 
 <br>
 <br> 
@@ -67,8 +67,8 @@ I have started with the Code after Midnight on 1. of January 03.23.02 O.Clock in
 <br> - <strong>PERL</strong> <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> Link to : PERL</a> 
 <br> - <strong>CoffeeScript</strong> <a href=" https://en.wikipedia.org/wiki/CoffeeScript)" target="_blank"> Link to : Coffescript</a> 
 <br> - <strong>D</strong> <a href=" https://en.wikipedia.org/wiki/D#Computing_codes" target="_blank"> Link to : D </a> 
-<br> - <strong>Bourne Again Shell</strong> <a href=" https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> Link to : Bourne Again Shell</a> 
-<br> - <strong>Bourne Shell</strong> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> Link to : Bourne Shell</a> 
+<br> - <strong>Bourne Again Shell</strong> <a href="https://en.wikipedia.org/wiki/Bourne_shell" target="_blank"> Link to : Bourne Again Shell</a> 
+<br> - <strong>Bourne Shell</strong> <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"> Link to : Bourne Shell</a> 
 <br> - <strong>Ruby</strong> <a href="https://en.wikipedia.org/wiki/Ruby_on_Rails" target="_blank"> Link to : Ruby on Rails</a> 
 <br> - <strong>DOS Batch</strong> <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank"> Link to : DOS BATCH</a> 
 <br> - <strong>Python</strong> <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"> Link to : PYTHON</a> 
