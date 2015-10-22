@@ -83,7 +83,7 @@ I have started with the Code after Midnight on 1. of January 03.23.02 O.Clock in
 <br> <strong> Frameworks (Open Source) </strong> 
 <br>
 <br>
-<br> - <strong>Boootstrap 3</strong> (Robust Front-End Framework) <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)" target="_bkank"> Link to : Bootstrap Framework</a> 
+<br> - <strong>Bootstrap 3</strong> (Robust Front-End Framework) <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)" target="_bkank"> Link to : Bootstrap Framework</a> 
 <br> - <strong>Sails.js</strong> (MVC Realtime Framework) <a href="http://sailsjs.org/documentation/concepts/)" target="_bkank"> Link to : Sails.js Framework</a> 
 <br> - <strong>Backbone.js</strong> <a href="https://en.wikipedia.org/wiki/Backbone.js" target="_bkank"> Link to : Backbone.js</a> 
 <br> - <strong> underscore.js </strong> <a href="https://en.wikipedia.org/wiki/Underscore.js" target="_bkank"> Link to : Underscore.js </a> 
