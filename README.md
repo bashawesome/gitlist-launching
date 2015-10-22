@@ -91,7 +91,7 @@ I have started with the Code after Midnight on 1. of January 03.23.02 O.Clock in
 <br> - <strong>Nginx </strong>(Webserver-Software, Reverse Proxy und E-Mail-Proxy) <a href="https://en.wikipedia.org/wiki/Nginx" target="_bkank"> Link to : Nginx</a> 
 <br> - <strong>oAuth - GitHub and Twitter Api</strong> (let allow User to sign with Twiiter + Github) <a href="https://en.wikipedia.org/wiki/OAuth" target="_bkank"> Link to : oAuth Guthub and Twitter </a> <br
 <br> - <strong> passport.js</strong> passport.authenticate('twitter');('facebook');('google');('linkedin');('github');
-Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.<a href="http://passportjs.org/" target="_bkank"> Link to : oAuth Guthub and Twitter </a> <br
+Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.<a href="http://passportjs.org/" target="_bkank"> Link to : passportjs.org </a> <br
 <br> <br
 <br>
 <br> <strong> Virtual Servers </strong> 
