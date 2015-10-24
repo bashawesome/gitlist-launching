@@ -21,5 +21,8 @@ Script for Preloading :
 
 
 
-2. Setting Up GEO CDN Servers. = for more Speed. 
+2. Setting Up GEO CDN Servers. = for more Speed. Coming Soon! 
+
+
+3. We Hiring Some Good Peoples feel free to Contact Us. 
 
