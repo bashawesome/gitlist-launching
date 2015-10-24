@@ -4,8 +4,7 @@
 Script for Preloading : 
 
 
-<script type="text/javascript">
-  //<![CDATA[
+
     $(window).load(function() { // makes sure the whole site is loaded
       $('#status').fadeOut(); // will first fade out the loading animation
       $('#preloader').delay(0).fadeOut('fast'); // will fade out the white DIV that covers the website.
@@ -18,8 +17,7 @@ Script for Preloading :
             $('#gitlist-sectionspace3-monthly').delay(22220).css({'overflow':'auto'});
 
     })
-  //]]>
-</script> 
+
 
 
 
