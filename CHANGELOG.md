@@ -2,7 +2,7 @@
 1. Get more PageSpeed!
 
 Script for Preloading : 
-<code> 
+
 
 <script type="text/javascript">
   //<![CDATA[
@@ -21,7 +21,6 @@ Script for Preloading :
   //]]>
 </script> 
 
-</code>
 
 
 2. Setting Up GEO CDN Servers. = for more Speed. 
