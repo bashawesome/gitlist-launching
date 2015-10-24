@@ -100,12 +100,12 @@ Passport is authentication middleware for Node.js. Extremely flexible and modula
 <br> - <strong>Nginx </strong>(Webserver-Software, Reverse Proxy und E-Mail-Proxy) <a href="https://en.wikipedia.org/wiki/Nginx" target="_bkank"> Link to : Nginx</a> 
 <br> - <strong>Node.js</strong> (Node.js® is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. ) <a href=" https://en.wikipedia.org/wiki/Node.js" target="_bkank"> Link to : Node.js Framework</a> 
 
-
+<br>
  - <strong>Mean.io </strong> The Friendly & Fun Javascript Fullstack 
 for your next web application
 MEAN is an opinionated fullstack javascript framework - 
 which simplifies and accelerates web application development.
- <a href=" http://mean.io/#!/" target="_bkank"> Link to : Mean.io</a> 
+<a href="http://mean.io/#!/" target="_bkank"> Link to : Mean.io</a> 
  - 
  
 
