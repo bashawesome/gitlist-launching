@@ -99,6 +99,16 @@ Passport is authentication middleware for Node.js. Extremely flexible and modula
 <br> - <strong>Digital Ocean</strong> (Servers in San Fransisco, New York, Singabore) <a href="https://en.wikipedia.org/wiki/DigitalOcean" target="_bkank"> Link to : Digital Ocean</a> 
 <br> - <strong>Nginx </strong>(Webserver-Software, Reverse Proxy und E-Mail-Proxy) <a href="https://en.wikipedia.org/wiki/Nginx" target="_bkank"> Link to : Nginx</a> 
 <br> - <strong>Node.js</strong> (Node.js® is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. ) <a href=" https://en.wikipedia.org/wiki/Node.js" target="_bkank"> Link to : Node.js Framework</a> 
+
+
+ - <strong>Mean.io </strong> The Friendly & Fun Javascript Fullstack 
+for your next web application
+MEAN is an opinionated fullstack javascript framework - 
+which simplifies and accelerates web application development.
+ <a href=" http://mean.io/#!/" target="_bkank"> Link to : Mean.io</a> 
+ - 
+ 
+
 <br> - <strong>MongoDB</strong> ( is a cross-platform document-oriented database. Classified as a NoSQL database, MongoDB eschews the traditional table-based relational database structure in favor of JSON-like documents with dynamic schemas (MongoDB calls the format BSON), making the integration of data in certain types of applications easier and faster. ) <a href="https://en.wikipedia.org/wiki/MongoDB" target="_bkank"> Link to : Mongo DB</a> 
 <br> - <strong>Linux Ubnutu (Operating System)</strong> <a href="https://en.wikipedia.org/wiki/Ubuntu_(operating_system)" target="_bkank"> Link to : Linux</a> 
 <br> - <strong>Linux Ubnutu 14.04 LTS Virtual Machine (Servers)</strong> (Scale out with Ubuntu Server ) <a href="http://www.ubuntu.com/server" target="_bkank"> Link to : Linux Ubnutu 14.04 LTS Virtual Machine</a> 
