@@ -27,3 +27,6 @@ Script for Preloading :
 5. Github Api - Get some more Feautures and Functions More.
 6. We hire Heroes feel free to Contact Us. 
 
+
+Gitlist V.0.0.1  - <a href="http://www.gitlist.io">gitlist.io</a> 
+
