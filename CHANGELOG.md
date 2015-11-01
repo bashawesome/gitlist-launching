@@ -19,10 +19,10 @@ Script for Preloading :
     })
 
 
-
+<h1>Gitlist Version v.0.0.2</h1> 
 
 2. Setting Up GEO CDN Servers. = for more Speed. Coming Soon! 
 
 
-3. We Hiring Some Good Peoples feel free to Contact Us. 
+3. We hire Heroes feel free to Contact Us. 
 
