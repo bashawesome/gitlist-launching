@@ -28,5 +28,8 @@ Script for Preloading :
 6. We hire Heroes feel free to Contact Us. 
 
 
-Gitlist V.0.0.1  - <a href="http://www.gitlist.io">gitlist.io</a> 
+Gitlist V.0.0.1  <br>
+<a href="http://www.gitlist.io">gitlist.io</a> 
+<br>
+<a href="http://www.gitlist.io/g/launching">gitlist.io/g/launching</a> 
 
