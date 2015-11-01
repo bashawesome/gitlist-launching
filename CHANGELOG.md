@@ -24,6 +24,6 @@ Script for Preloading :
 2. Setting Up GEO CDN Servers. = for more Speed. Coming Soon! 
 3. Interface UI/UX List
 4. oAuth with Twitter and Github into our App
-5. Github Api - Get some more Feauture and Function More.
+5. Github Api - Get some more Feautures and Functions More.
 6. We hire Heroes feel free to Contact Us. 
 
