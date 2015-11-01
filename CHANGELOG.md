@@ -29,7 +29,13 @@ Script for Preloading :
 
 
 Gitlist V.0.0.1  <br>
+
+Gitlist Official
 <a href="http://www.gitlist.io">gitlist.io</a> 
 <br>
+Gitlist Landing Page
 <a href="http://www.gitlist.io/g/launching">gitlist.io/g/launching</a> 
+
+
+
 
