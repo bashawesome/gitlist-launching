@@ -22,7 +22,7 @@ Script for Preloading :
 <h1>Gitlist Version v.0.0.2</h1> 
 
 2. Setting Up GEO CDN Servers. = for more Speed. Coming Soon! 
-3. Interface UI/ List
+3. Interface UI/UX List
 4. oAuth with Twitter and Github into our App
 5. Github Api - Get some more Feauture and Function More.
 
