@@ -141,7 +141,6 @@ which simplifies and accelerates web application development.
                 
 </div>
          </section> 
-![alt tag](https://spaceg.github.io/img/gitlist-wall-1-1.png)
 
 The MIT License (MIT)
 
